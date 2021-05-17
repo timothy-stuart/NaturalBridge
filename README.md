@@ -21,3 +21,10 @@ Natural Bridge is located in Slade, Ky and is about an hour east of Lexington, K
 ## Natural Bridge in the fall
 ![natural bridge in fall](fall.jpg)
 ###### Source: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kentuckyliving.com%2Fexplore%2Ffall-peaks-and-peeks&psig=AOvVaw1y1tIyNIlnOcOh3FzG6kqU&ust=1621315204422000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKC6vv_7z_ACFQAAAAAdAAAAABAY
+
+# Goals of the project
+my goal for this project was to learn more and see natural bridge in a new way. I have been there a few times but being able to map it in a few different ways was a good experience.
+#
+This project was created by Timothy Stuart for a final project in GEO 409 taken at the University of Kentucky during the spring of 2021.
+#
+While making this project I used Mapbox, Cesium ion, and ArcGISpro. Some data was from KyFromAbove project.

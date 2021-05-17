@@ -9,12 +9,12 @@ Natural Bridge is located in Slade, Ky and is about an hour east of Lexington, K
 
 # Mapping The Bridge
 ## Map of Natural Bridge with contour intervals
-![mapbox snip of natural bridge](mapbox.jpg)
+![mapbox snip of natural bridge](mapbox.JPG)
 ###### link to interactive map: https://api.mapbox.com/styles/v1/tjmapper99/ckorxu5f8060a19nod7jeczaj.html?fresh=true&title=view&access_token=pk.eyJ1IjoidGptYXBwZXI5OSIsImEiOiJja29yOWF1bmwwamVuMnBwZGM1M2ZxZTB3In0.DjPaPH8Gvx3CTjZSApO-uQ
 
 #
 ## Screenshot of a slide from tour showing Cesium Point Cloud
-![Cesium map](cesium.jpg)
+![Cesium map](cesium.JPG)
 ###### link to tour: https://cesium.com/ion/stories/viewer/?id=665d3e21-bc2c-4c48-99db-4e7f5e88b8f4
 
 # 
